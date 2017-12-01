@@ -1,2 +1,2 @@
 # setup-me
-Setup oh-my-zsh and space
+Setup oh-my-zsh and space-vim.
